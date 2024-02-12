@@ -1,0 +1,15 @@
+.button{
+background-color: #F3A800;
+border: 2px solid #D12600;
+color: white;
+}
+
+.button:hover{
+    background-color: #D12600;
+border: 2px solid #F3A800;
+color: white;
+}
+
+ p{
+    font-family: 'Bungee Spice', sans-serif;
+ }
